@@ -38,7 +38,7 @@ Les utilisateurs peuvent interagir avec la simulation à l'aide de boutons et de
 
 1. Exécutez le script principal `main.py` :
     ```bash
-    python boids_simulation.py
+    python main.py
     ```
 2. Vous serez accueilli avec une fenêtre de simulation où vous pourrez :
     - Utiliser les **sliders** pour ajuster les comportements de vos boids (alignement, cohésion, séparation, vitesse, etc.).
