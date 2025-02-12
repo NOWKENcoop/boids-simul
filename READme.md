@@ -36,7 +36,7 @@ Les utilisateurs peuvent interagir avec la simulation à l'aide de boutons et de
 
 ## Utilisation
 
-1. Exécutez le script principal `boids_simulation.py` :
+1. Exécutez le script principal `main.py` :
     ```bash
     python boids_simulation.py
     ```
@@ -61,11 +61,11 @@ Les utilisateurs peuvent interagir avec la simulation à l'aide de boutons et de
 
 ## Capture d'écran
 
-![Capture d'écran de la simulation](screenshots/simulation.png)
+![Capture d'écran de la simulation](https://github.com/NOWKENcoop/boids-simul/blob/master/xptt.png)
 
 ## Auteurs
 
-- **Nom de l'auteur** - *Initials* - [VotreGitHub](https://github.com/yourusername)
+- **Nom de l'auteur** - *Initials* - [nowken](https://github.com/NOWKENcoop)
 
 ## Licence
 
